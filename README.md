@@ -1,8 +1,8 @@
-### React project setup 
+## React project setup 
 
 Starting with react and es6, looking for some simple template here you got your page :)
 
-###### Extra files used :
+##### Extra files used :
 
 .babelrc - It's a 'standard' place for different tools to find it, and allows Babel to use different configuration for different files during the same build
 Ref: https://babeljs.io/docs/usage/babelrc/
@@ -17,7 +17,7 @@ Ref: https://eslint.org/docs/user-guide/configuring
 Ref: https://git-scm.com/docs/gitignore
 
 
-######How to run this:
+##### How to run this:
 
 1. Clone Repository 
 
