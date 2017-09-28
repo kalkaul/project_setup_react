@@ -1,4 +1,6 @@
-### React project setup
+### React project setup 
+
+Starting with react and es6, looking for some simple template here you got your page :)
 
 ###### Extra files used :
 
@@ -15,4 +17,23 @@ Ref: https://eslint.org/docs/user-guide/configuring
 Ref: https://git-scm.com/docs/gitignore
 
 
-Starting with react and es6, looking for some simple template here you got your page :)
+######How to run this:
+
+1. Clone Repository 
+
+open cmd and enter: 
+
+ > git clone https://github.com/rashmivishwakarma/project_setup_react.git
+
+2. Install npm packacges:
+
+> npm install
+
+3. To run project: 
+
+> npm start
+
+4. open browser and enter:
+
+> localhost:1234 
+
